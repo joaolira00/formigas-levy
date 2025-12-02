@@ -1,8 +1,8 @@
 # 🐜 ACO-Lévy: A Novel Ant Colony Optimization Algorithm With Lévy Flight
 
-Este projeto implementa um algoritmo de **Otimização por Colônia de Formigas** (Ant Colony Optimization — ACO) com **saltos Lévy (Lévy Flight)**, inspirado no artigo:
+Este projeto implementa um algoritmo de **Otimização por Colônia de Formigas** (Ant Colony Optimization — ACO) com **saltos Lévy (Lévy Flight)**, inspirado no artigo de Qualis A3:
 
-> **A Novel Ant Colony Optimization Algorithm With Lévy Flight**  
+> **[A Novel Ant Colony Optimization Algorithm With Lévy Flight](https://ieeexplore.ieee.org/document/9056538)**
 
 O objetivo principal é resolver o **Problema do Caixeiro Viajante (TSP)**, testando a melhoria da convergência ao introduzir movimentos aleatórios de longa distância (Lévy flights) no comportamento das formigas.
 
@@ -54,5 +54,8 @@ O script gera:
 🗺️ Gráfico com o melhor caminho encontrado
 
 
+📚 Referência
 
+Y. Liu and B. Cao, "A Novel Ant Colony Optimization Algorithm With Levy Flight," in IEEE Access, vol. 8, pp. 67205-67213, 2020, doi: 10.1109/ACCESS.2020.2985498.
+keywords: {Ant colony optimization;Optimization;Reinforcement learning;Random variables;Space exploration;Traveling salesman problems;Indexes;Ant colony optimization;Levy flight;Levy distribution;traveling salesman problem}.
 
